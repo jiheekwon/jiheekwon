@@ -1,0 +1,3 @@
+- Hi, I’m @jiheekwon.
+- I'm Korean, and I have lived in Japan since I was 3.
+- I started learning programming in February 2022.
